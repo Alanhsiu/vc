@@ -1,0 +1,381 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "soxdata_encodec",
+  "dataset_size": 22130736184,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00000-of-00042-eb7a3655fad49992.parquet": {
+      "num_bytes": 84755904,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00001-of-00042-cec62241939de759.parquet": {
+      "num_bytes": 77941992,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00002-of-00042-a4b81703ac84e85c.parquet": {
+      "num_bytes": 74580566,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00003-of-00042-91ae44a5ccdd4837.parquet": {
+      "num_bytes": 80109969,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00004-of-00042-b2d2ee8d043e641a.parquet": {
+      "num_bytes": 83731847,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00005-of-00042-16d7a1ab68b6625c.parquet": {
+      "num_bytes": 74108490,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00006-of-00042-5e2cff1cb9201416.parquet": {
+      "num_bytes": 82027807,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00007-of-00042-0b07d76cbbf144c3.parquet": {
+      "num_bytes": 79920526,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00008-of-00042-3efe6195106967d5.parquet": {
+      "num_bytes": 81480873,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00009-of-00042-1474c09f07595d4c.parquet": {
+      "num_bytes": 79619859,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00010-of-00042-0a9e5141bbd5f859.parquet": {
+      "num_bytes": 77745136,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00011-of-00042-b01b4c2a5b3c4cc2.parquet": {
+      "num_bytes": 77761843,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00012-of-00042-01f2ba7456f1748d.parquet": {
+      "num_bytes": 82603897,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00013-of-00042-cd5063682f84423d.parquet": {
+      "num_bytes": 82696368,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00014-of-00042-724d973af154ea8b.parquet": {
+      "num_bytes": 81268387,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00015-of-00042-67d83a48806e5a08.parquet": {
+      "num_bytes": 77795740,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00016-of-00042-ee89535bbfd52789.parquet": {
+      "num_bytes": 82000076,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00017-of-00042-a8a0ef618b75940d.parquet": {
+      "num_bytes": 75271396,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00018-of-00042-9731ee976d509f79.parquet": {
+      "num_bytes": 77107366,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00019-of-00042-6ccec6a026b41936.parquet": {
+      "num_bytes": 71254915,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00020-of-00042-e7b08e034c9ee258.parquet": {
+      "num_bytes": 76013597,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00021-of-00042-29f27377411e8311.parquet": {
+      "num_bytes": 71807910,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00022-of-00042-4b311d99e4179a8d.parquet": {
+      "num_bytes": 68294562,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00023-of-00042-d8a82e037b08c616.parquet": {
+      "num_bytes": 69711485,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00024-of-00042-5976462862cd54b2.parquet": {
+      "num_bytes": 74805807,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00025-of-00042-693fb044dee59920.parquet": {
+      "num_bytes": 78330190,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00026-of-00042-537f70252d645a5f.parquet": {
+      "num_bytes": 73480460,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00027-of-00042-4a141cb2489efaba.parquet": {
+      "num_bytes": 66148032,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00028-of-00042-cb898b9c1ad607a3.parquet": {
+      "num_bytes": 68732202,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00029-of-00042-a0105393fb83dc55.parquet": {
+      "num_bytes": 78364965,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00030-of-00042-73b452dc07c1f54e.parquet": {
+      "num_bytes": 73993216,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00031-of-00042-38b39f0dd9c3126e.parquet": {
+      "num_bytes": 74041412,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00032-of-00042-49faf1e4bc586c62.parquet": {
+      "num_bytes": 78391583,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00033-of-00042-4e09942e7788b5b9.parquet": {
+      "num_bytes": 72129777,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00034-of-00042-5db0e5a57cdd71a7.parquet": {
+      "num_bytes": 69591403,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00035-of-00042-77ac2451f2bfd3ed.parquet": {
+      "num_bytes": 74438823,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00036-of-00042-20411f61743e9521.parquet": {
+      "num_bytes": 70520808,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00037-of-00042-e50029e6762e06e7.parquet": {
+      "num_bytes": 75395870,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00038-of-00042-b5fd3d75ea960ea4.parquet": {
+      "num_bytes": 79949177,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00039-of-00042-ef08ddeee0a3894e.parquet": {
+      "num_bytes": 75834624,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00040-of-00042-be68cf8ec3054b16.parquet": {
+      "num_bytes": 78569942,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/train-00041-of-00042-60f6774e6827a5de.parquet": {
+      "num_bytes": 76076392,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/validation-00000-of-00002-a4bc5257f4ae8884.parquet": {
+      "num_bytes": 46570284,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/validation-00001-of-00002-bcb85769fa510ee1.parquet": {
+      "num_bytes": 42768528,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/test-00000-of-00002-6beb9ce0898d206e.parquet": {
+      "num_bytes": 50826025,
+      "checksum": null
+    },
+    "hf://datasets/lca0503/soxdata_encodec@ac31f28e7de597e73e592971507fa4613fa27150/data/test-00001-of-00002-a4291923c4ebf90e.parquet": {
+      "num_bytes": 37384361,
+      "checksum": null
+    }
+  },
+  "download_size": 3385954392,
+  "features": {
+    "file_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "transcription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "src_encodec_0": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "src_encodec_1": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "src_encodec_2": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "src_encodec_3": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "src_encodec_4": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "src_encodec_5": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "src_encodec_6": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "src_encodec_7": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_0": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_1": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_2": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_3": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_4": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_5": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_6": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tgt_encodec_7": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 25516690576,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 20971146669,
+      "num_examples": 354780,
+      "shard_lengths": [
+        8448,
+        8448,
+        16896,
+        8448,
+        16895,
+        8447,
+        8447,
+        8447,
+        8447,
+        8447,
+        8447,
+        8447,
+        8447,
+        8447,
+        8447,
+        16894,
+        16894,
+        16894,
+        16894,
+        8447,
+        16894,
+        16894,
+        16894,
+        8447,
+        16894,
+        16894,
+        16894,
+        16894,
+        8447
+      ],
+      "dataset_name": "soxdata_encodec"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 582942008,
+      "num_examples": 10349,
+      "dataset_name": "soxdata_encodec"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 576647507,
+      "num_examples": 9957,
+      "dataset_name": "soxdata_encodec"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

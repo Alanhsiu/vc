@@ -1,0 +1,25 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001_5.arrow"
+    },
+    {
+      "filename": "data-00000-of-00001_1.arrow"
+    },
+    {
+      "filename": "data-00000-of-00001_2.arrow"
+    },
+    {
+      "filename": "data-00000-of-00001_3.arrow"
+    },
+    {
+      "filename": "data-00000-of-00001_4.arrow"
+    }
+  ],
+  "_fingerprint": "c0d0022b86003165",
+  "_format_columns": null,
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
